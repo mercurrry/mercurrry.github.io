@@ -1,0 +1,53 @@
+@font-face {
+    font-family: Exo;
+    src: url(Exo_2/Exo2-Light.ttf);
+}
+
+body {
+    font-family: Exo;
+    background-color: #26252D;
+}
+
+.navbar-default {
+    background-image: linear-gradient(#000000, #242433);
+    color: white;
+}
+
+.connectus {
+    margin: 1vw;
+}
+
+.jumbotron {
+    background-image: url(media/thomas-wong-190766.jpg);
+    background-size: cover;
+    background-position: bottom;
+}
+
+.textarea {
+    background-color: #FFF5EE;
+    padding: 2vw;
+    margin-bottom: 7vh;
+}
+
+.btn-container {
+    text-align: center;
+}
+
+.footer {
+    background-color: #242433;
+    padding: 3vh;
+}
+
+.contacts {
+    color: white;
+    float: left;
+}
+
+.toplink {
+    margin-bottom: 3vh;
+    margin-right: 3vh;
+}
+
+.btn-wrapper {
+    text-align: right;
+}
